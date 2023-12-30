@@ -1,1 +1,1 @@
-# ypscala
+# Scala Tutorials
